@@ -1,0 +1,12 @@
+{
+    "name": "jojo/exercice-tableau-dynamique",
+
+    "autoload": {
+        "psr-4": {
+            "Joo\\": "class/",
+            "App\\": "src/"
+        }
+    },
+
+    "require": {}
+}
